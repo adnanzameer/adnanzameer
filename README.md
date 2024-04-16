@@ -8,7 +8,7 @@
 [![For Optimzely CMS 12](https://github-readme-stats.vercel.app/api/pin/?username=adnanzameer&repo=A2Z.EPiServer.MarketingAutomationIntegration.Mailchimp)](https://github.com/adnanzameer/A2Z.EPiServer.MarketingAutomationIntegration.Mailchimp)
 
 [![For Optimzely CMS 12](https://github-readme-stats.vercel.app/api/pin/?username=adnanzameer&repo=optimizely-orphaned-properties)](https://github.com/adnanzameer/optimizely-orphaned-properties)
-[![Windows App](https://github-readme-stats.vercel.app/api/pin/?username=adnanzameer&repo=JSON-Splitter)](https://github.com/adnanzameer/JSON-Splitter)
-
 [![For Optimzely CMS 12](https://github-readme-stats.vercel.app/api/pin/?username=adnanzameer&repo=optimizely-visitor-groups-usage)](https://github.com/adnanzameer/optimizely-visitor-groups-usage)
+
+[![Windows App](https://github-readme-stats.vercel.app/api/pin/?username=adnanzameer&repo=JSON-Splitter)](https://github.com/adnanzameer/JSON-Splitter)
 [![For Optimzely CMS 12](https://github-readme-stats.vercel.app/api/pin/?username=birgitzprinz&repo=epi-content-type-usage)](https://github.com/birgitzprinz/epi-content-type-usage)
