@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2STV29)
+
 [![For Optimzely CMS 12](https://github-readme-stats.vercel.app/api/pin/?username=adnanzameer&repo=optimizely-advancedtaskmanager)](https://github.com/adnanzameer/optimizely-advancedtaskmanager)
 [![For Optimzely CMS 12](https://github-readme-stats.vercel.app/api/pin/?username=adnanzameer&repo=optimizely-seoboost)](https://github.com/adnanzameer/optimizely-seoboost)
 
