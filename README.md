@@ -11,7 +11,7 @@
 [![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=A2Z.Episerver.Labs.LanguageManager.GoogleTranslate)](https://github.com/adnanzameer/A2Z.Episerver.Labs.LanguageManager.GoogleTranslate)
 
 [![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=A2Z.EPiServer.MarketingAutomationIntegration.Mailchimp)](https://github.com/adnanzameer/A2Z.EPiServer.MarketingAutomationIntegration.Mailchimp)
-[![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=birgitzprinz&repo=optimizely-tiny-ai)](https://github.com/adnanzameer/optimizely-tiny-ai)
+[![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=optimizely-tiny-ai)](https://github.com/adnanzameer/optimizely-tiny-ai)
 
 [![For Optimzely CMS 11](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=AdvancedTaskManager)](https://github.com/adnanzameer/AdvancedTaskManager)
 [![For Optimzely CMS 11](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=SEOBOOST)](https://github.com/adnanzameer/SEOBOOST)
