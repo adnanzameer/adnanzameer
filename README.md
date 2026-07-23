@@ -4,7 +4,7 @@
 [![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=optimizely-orphaned-properties)](https://github.com/adnanzameer/optimizely-orphaned-properties)
 [![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=optimizely-advanced-form-submissions)](https://github.com/adnanzameer/optimizely-advanced-form-submissions)
 
-[![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=A2Z.Optimizely.MasterLanguageSwitcher)](https://github.com/adnanzameer/A2Z.Optimizely.MasterLanguageSwitcher)1
+[![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=A2Z.Optimizely.MasterLanguageSwitcher)](https://github.com/adnanzameer/A2Z.Optimizely.MasterLanguageSwitcher)
 [![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=optimizely-visitor-groups-usage)](https://github.com/adnanzameer/optimizely-visitor-groups-usage)
 
 [![For Optimzely CMS 12](https://github-readme-stats-zeta-self-15.vercel.app/api/pin/?username=adnanzameer&repo=A2Z.Optimizely.ContentSerializer)](https://github.com/adnanzameer/A2Z.Optimizely.ContentSerializer)
